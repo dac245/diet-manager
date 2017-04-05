@@ -1,0 +1,11 @@
+To compile and run Team A’s Diet Manager Application:
+
+In a new terminal window, change your working directory to the src directory
+
+To compile, run:
+javac Main.java
+
+To launch, run:
+java Main
+
+Application currently only has the ability to add, view, and manipulate BasicFood items through the Java Swing GUI. Much of the back-end code exists for the other project requirements, however the connection of the GUI to the ActionListener objects as well as the Observer code in the GUI classes are missing.
